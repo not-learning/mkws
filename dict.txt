@@ -1,0 +1,27 @@
+home		Главная
+next		Дальше
+prev		Назад
+
+maths		Математика
+algebra		Алгебра
+powers		Степени
+logs		Логарифмы
+numbers		Числа
+trig		Тригонометрия
+vectors		Векторы
+complex		Комплексные числа
+
+physics		Физика
+linear		Линейное движение
+uniaccel	Равноускоренное движение
+circular	Движение по окружности
+mass		Масса
+force		Сила
+momentum	Импульс
+
+chemistry	Химия
+orbitals	Орбитали
+
+cs			Информатика
+numsys		Системы счисления
+encoding	Кодирование информации
